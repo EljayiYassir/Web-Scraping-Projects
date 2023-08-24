@@ -1,11 +1,6 @@
 <h1 align="center"> 🌐👨🏻‍💻 Web Scraping Projects Repository </h1>
 
->  'Welcome to the Web Scraping Projects repository! This collection showcases a series of hands-on projects dedicated to the fascinating world of web scraping. In this repository, you'll find a variety of projects that demonstrate the power and versatility of web scraping techniques.'
-
-```diff
-
-```
-
+>  Welcome to the Web Scraping Projects repository! This collection showcases a series of hands-on projects dedicated to the fascinating world of web scraping. In this repository, you'll find a variety of projects that demonstrate the power and versatility of web scraping techniques.
 
 
 <p align="center">
