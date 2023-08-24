@@ -1,5 +1,7 @@
 <h1 align="center"> 🌐👨🏻‍💻 Web Scraping Projects Repository </h1>
+
 ```diff
++ fdgagh
 - This is a red colored line
 + This is a green colored line
 @@ This is a purple colored line @@
