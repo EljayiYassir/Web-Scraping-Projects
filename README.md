@@ -1,25 +1,8 @@
 <h1 align="center"> 🌐👨🏻‍💻 Web Scraping Projects Repository </h1>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .fancy-box {
-    border: 1px solid #ccc;
-    padding: 10px;
-    background-color: #f5f5f5;
-    border-radius: 5px;
-  }
-</style>
-</head>
-<body>
-
 <div class="fancy-box">
   <p>Welcome to the Web Scraping Projects repository! This collection showcases a series of hands-on projects dedicated to the fascinating world of web scraping. In this repository, you'll find a variety of projects that demonstrate the power and versatility of web scraping techniques.</p>
 </div>
-
-</body>
-</html>
 
 <p align="center">
   <img src="https://github.com/EljayiYassir/GIF-IMG-File/blob/0cad828e34f2783657519cd55c785c0d57fd30da/GIF/web_scraping.gif" width="750" />
