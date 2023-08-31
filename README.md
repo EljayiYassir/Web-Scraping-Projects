@@ -18,10 +18,10 @@ Each project in this repository focuses on a different aspect of web scraping, d
 
 Here are some of the exciting web scraping projects you'll find in this repository:
 
-- **Project 1:** [Project Title](link)
+- **Project 1:** 🎮📱 [highest-grossing mobile games Web Scraping](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/6d7470213be9a7f833a8dd29b547eb5b4c902118/1st%20project%20gaming%20stuff.ipynb)
   Description of the project.
 
-- **Project 2:** [Project Title](link)
+- **Project 2:** ⛩️🌸☯🍜 [Top animes acording to MyAnimeList](https://github.com/EljayiYassir/Web-Scraping-Projects/blob/66a73912a10b042d32ea7f3c25ce95ec6149f0a2/2nd%20top_anime_list.ipynb)
   Description of the project.
 
 - **Project 3:** [Project Title](link)
